@@ -1,3 +1,7 @@
+header {
+	background-image: url("../resources/images/the-flatiron-building.png");
+}
+
 body {
 	text-align: center;
 	/*align-content: center;*/
@@ -5,4 +9,12 @@ body {
 
 footer {
 	text-align: left;
+}
+
+.imagestrip {
+	background-image: url("../resources/images/the-flatiron-building.png");
+}
+
+footer {
+	background-color: dimgray;
 }
